@@ -1,6 +1,6 @@
 <h1 align="center">
   
-<img src="https://github.com/thiagorussi/Foodfy/blob/master/assets/gifFOODFY1.gif" width="500" height="500">
+<img src="https://github.com/thiagorussi/Foodfy/blob/master/assets/gifFOODFY1.gif" width="1000" height="500">
 
 </h1>
 
