@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript]
 
 ## 💻 Projeto
-O Foodfy é um site de restaurante, onde os chefs cadastram suas receitas.
+O Foodfy é um site para qualquer pessoa ter acesso a diversos pratos, onde os chefs cadastram suas receitas.
 
 ## 💡 Atualização
 Fazer o back-end para cadastrar todas as receitas e usuários em um banco de dados.
