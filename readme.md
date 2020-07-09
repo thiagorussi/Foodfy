@@ -1,6 +1,6 @@
 <h1 align="center">
   
-<img src="https://github.com/tatmorenno/NextLevelWeekStarter/blob/master/public/assets/Ecoleta.jpg" width="1000" height="500">
+<img src="" width="1000" height="500">
 
 </h1>
 
@@ -14,10 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript]
 
 ## 💻 Projeto
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+O Foodfy é um site de um restaurante, onde os chefs cadastram suas receitas.
 
-## 🔖 Layout
-Você pode visualizar o layout original do projeto no formato através [deste link](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546). Lembrando que você irá precisar ter uma conta no [Figma](https://www.figma.com/files/recent).
+## 💡 Atualização
+Fazer o back-end para cadastrar todas as receitas e usuários em um banco de dados.
 
-
-Feito com ♥ por [Thiago Russi](https://www.linkedin.com/in/thiago-russi-79aa3b163/) 
+<h3 align="center">Feito com ♥ por [Thiago Russi](https://www.linkedin.com/in/thiago-russi-79aa3b163/) </h3>
